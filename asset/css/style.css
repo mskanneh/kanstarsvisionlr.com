@@ -429,18 +429,18 @@ section {
 
 .featured .featured-slider .box .content h3 {
   font-size: #eee;
-  padding: var(--black);
+  color: var(--black);
 }
 
 .featured .featured-slider .box .content .price {
   font-size: 2.2rem;
-  padding: var(--black);
+  color: var(--black);
   padding-top: 1rem;
 }
 
 .featured .featured-slider .box .content .price span {
   font-size: 1.5rem;
-  padding: var(--brown);
+  color: var(--brown);
   text-decoration: line-through;
 }
 
@@ -535,6 +535,11 @@ border: var(--border-hover);
 
 
 
+.arrivals .arrivals-slider .box .content .stars i{
+  font-size: 1.5rem;
+  color: var(--green);
+
+}
 
 
 
